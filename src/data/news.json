@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "image": "/actu_img/yoga.png",
+    "alt": "Atelier Yoga",
+    "title": "Atelier Yoga",
+    "excerpt": "Venez nombreux participer à notre atelier bien-être ce samedi matin !",
+    "date": "08 juin 2025"
+  },
+  {
+    "id": 2,
+    "image": "/actu_img/ag.png",
+    "alt": "Assemblée Générale",
+    "title": "Assemblée Générale",
+    "excerpt": "Nous vous attendons nombreux pour l'assemblée générale de l'association.",
+    "date": "02 juin 2025"
+  },
+  {
+    "id": 3,
+    "image": "/actu_img/music.jpg",
+    "alt": "Fête de la Musique",
+    "title": "Fête de la Musique",
+    "excerpt": "Rejoignez-nous pour une soirée festive avec des concerts en plein air.",
+    "date": "21 juin 2025"
+  }
+]

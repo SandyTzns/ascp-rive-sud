@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "image": "/activity_img/associative.jpg",
+    "alt": "Vie associative",
+    "title": "Vie associative",
+    "class": "abox-one"
+  },
+  {
+    "id": 2,
+    "image": "/activity_img/atelier.jpg",
+    "alt": "Atelier",
+    "title": "Atelier",
+    "class": "abox-two"
+  },
+  {
+    "id": 3,
+    "image": "/activity_img/culturelle.jpg",
+    "alt": "Activités culturelles",
+    "title": "Activités culturelles",
+    "class": "abox-three"
+  },
+  {
+    "id": 4,
+    "image": "/activity_img/entraide.png",
+    "alt": "Entraide",
+    "title": "Entraide",
+    "class": "abox-four"
+  },
+  {
+    "id": 5,
+    "image": "/activity_img/jeux.jpg",
+    "alt": "Jeux",
+    "title": "Jeux",
+    "class": "abox-five"
+  },
+  {
+    "id": 6,
+    "image": "/activity_img/langues.png",
+    "alt": "Langues",
+    "title": "Langues",
+    "class": "abox-six"
+  },
+
+  {
+    "id": 7,
+    "image": "/activity_img/physique.jpg",
+    "alt": "Activités physiques",
+    "title": "Activités physiques",
+    "class": "abox-seven"
+  }
+]

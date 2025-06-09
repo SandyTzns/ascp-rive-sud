@@ -1,0 +1,49 @@
+.section-activity {
+  margin-top: 20px;
+  padding: 20px;
+  background-color: #f9f9f9;
+  margin-bottom: 50px;
+}
+
+.container-activities {
+  margin-top: 15px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 40px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  cursor: default;
+}
+
+.voir-plus {
+  text-align: right;
+  margin-top: 20px;
+}
+
+.voir-plus a {
+  font-weight: 500;
+  color: #0065fc;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.voir-plus a:hover {
+  text-decoration: underline;
+}
+
+.section-entraide {
+  margin-top: 20px;
+
+  padding: 20px;
+  background-color: #f9f9f9;
+}
+
+.entraide-container {
+  margin-top: 15px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 30px;
+}

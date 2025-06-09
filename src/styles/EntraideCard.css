@@ -1,0 +1,32 @@
+.entraide-card {
+  display: flex;
+  background-color: #fff;
+  border-radius: 20px;
+  box-shadow: 0 3px 15px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  height: 160px;
+}
+
+.entraide-card img {
+  width: 45%;
+  object-fit: cover;
+  border-radius: 20px 0 0 20px;
+}
+
+.entraide-content {
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 55%;
+}
+
+.entraide-content h3 {
+  font-size: 16px;
+  margin: 0 0 8px 0;
+}
+
+.entraide-content p {
+  font-size: 14px;
+  margin: 0;
+}
