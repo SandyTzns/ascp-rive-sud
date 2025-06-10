@@ -28,7 +28,13 @@ export const Nav = () => {
         </NavLink>
 
         <div className="dropdown">
-          <span className="dropdown-title">L'Association</span>
+          <NavLink
+            to="/association"
+            className={({ isActive }) => (isActive ? "active" : undefined)}
+          >
+            L'Association
+          </NavLink>
+
           <div className="dropdown-menu">
             <NavLink to="/contact">Contact</NavLink>
             <NavLink to="/equipe">L'équipe</NavLink>
