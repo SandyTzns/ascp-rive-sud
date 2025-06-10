@@ -6,6 +6,12 @@
   box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.1);
   overflow: hidden;
   height: 100%;
+  transition: transform 0.2s;
+  cursor: pointer;
+}
+
+.box-activity:hover {
+  transform: translateY(-5px);
 }
 
 .activity-image {
